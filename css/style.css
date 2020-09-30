@@ -1,0 +1,247 @@
+body{
+ margin: 0;
+ padding: 0;
+ font-family: -apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,"Noto Sans Armenian","Noto Sans Bengali","Noto Sans Cherokee","Noto Sans Devanagari","Noto Sans Ethiopic","Noto Sans Georgian","Noto Sans Hebrew","Noto Sans Kannada","Noto Sans Khmer","Noto Sans Lao","Noto Sans Osmanya","Noto Sans Tamil","Noto Sans Telugu","Noto Sans Thai",sans-serif;
+}
+.container{
+  width: 100%;
+}
+.img{
+ margin-top: 3px;
+ margin-bottom: 3px;
+ height: 25px;
+ width: 50px;
+ margin-left: 320px;
+}
+.page{
+ display: flex;
+ justify-content: space-between;
+ width: 50%;
+}
+#search{
+ width: 200px;
+ margin-top: 5px;
+ height: 21px;
+ border-radius: 15px;
+ background-color: #224b7a;
+ border: none;
+}
+.header{
+ background-color: #4a76a8;
+
+}
+.main{
+ display: flex;
+ justify-content: space-between;
+ 
+}
+.h2{
+ font-size: 22px;
+ line-height: 26px;
+ font-weight: 700;
+ text-align: center;
+}
+.text{
+ color: #626d7a;
+ line-height: 20px;
+ font-size: 14px;
+ text-align: center;
+ font-weight: 400;
+ width: 43%;
+ margin-left: 320px;
+}
+.img1{
+    margin-top: -320px;
+    width:50;
+}
+.main{
+ background-color: #edeef0;
+}
+.btn{
+ margin-left: 450px;
+
+}
+.main__1{
+    position: relative;
+    margin-left:-150px;
+}
+.btn{
+    position: absolute;
+    margin-top: -320px;
+}
+.android{
+    margin-left: -20px; 
+    color: #2a5885;
+    border:none;
+    cursor: pointer;
+}
+.apple{
+    margin-left: 60px;
+    color: #2a5885;
+    border:none;
+    cursor: pointer;
+}
+.all{
+ position: absolute;
+ margin-top: 50px;
+ width: 50%;
+ margin-left: -180px;
+ text-decoration: none;
+ color: #2a5885;
+ line-height: 15px;
+ font-size: 13px;
+}
+.image__android{
+    position: absolute;
+    margin-left: -270px;
+    margin-top: 1px;
+}
+.image__apple{
+    position: absolute;
+    margin-left: -107px;
+    margin-top: 1px;
+}
+.login{
+ font-weight: 500;
+ padding-left: 10px;
+    width: 240px;
+    height: 30px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    color: #d3d9de;
+    border:1px solid grey;
+    
+    
+}
+.password{
+ font-weight: 500;
+ padding-left: 10px;
+    width: 240px;
+    height: 30px;
+    border-radius: 4px;
+    color: #d3d9de;
+    border:1px solid grey;
+}
+.main2{
+ position: relative;
+}
+.form{
+    margin-top: 30px;
+    position: absolute;
+    margin-left: -200px;
+    border :25px solid #fff;
+    border-radius: 4px;
+    background-color: #fff;
+    padding-bottom: 40px;
+}
+.btn__1{
+ position: absolute;
+    width: 90px;
+    height: 35px;
+    border-radius: 4px;
+    margin-top: 50px;
+    margin-left: -250px;
+    background-color: #5181b8;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+
+
+}
+.forgot{
+    line-height: 20px;
+ position: absolute;
+    width: 200px;
+    margin-top: 55px;
+    margin-left: -145px;
+    color: #2a5885;
+    font-size: 13px;
+}
+.h2__c{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+   
+
+}
+.h4__c{
+    color: #656565;
+    font-size: 12.5px;
+    text-align: center;
+   
+}
+.name{
+     margin-bottom: 15px;
+     width: 240px;
+     height: 25px;
+     border-radius: 4px;
+     padding-left: 10px;
+     border: 1px solid grey;
+
+}
+.surname{
+     width: 240px;
+     height: 25px;
+     border-radius: 4px;
+     padding-left: 10px;
+     border: 1px solid grey;
+}
+.box2{
+ border:24px solid white;
+ margin-top: 240px;
+ background-color: white;
+ position: absolute;
+ margin-left: -200px;
+ border-radius: 4px;
+
+ 
+
+}
+.h6{
+ font-size: 13px;
+ font-weight: 500;
+ color: #939393;
+}
+.day{
+   padding: 6px 10px;
+   padding-left: 6px;
+   border-radius: 4px;
+   color:rgb(124, 127, 130);
+}
+.month{
+   padding: 6px 10px;
+   padding-left: 6px;
+   border-radius: 4px;
+   color:rgb(124, 127, 130);
+}
+.year{
+   padding: 6px 10px;
+   padding-left: 6px;
+   border-radius: 4px;
+   color:rgb(124, 127, 130); 
+   
+}
+.h5{
+ color: #939393;
+ font-size: 13px;
+ font-weight: 500;
+}
+.female{
+    font-size: 13px;
+
+}
+.male{
+    font-size: 13px;
+}
+.registration{
+ margin-top: 10px;
+ border-radius: 4px;
+    background-color: #4bb34b;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 35px;
+}
+.log_in{
+    background-color: #2474d6;
+    border-radius: 4px;
